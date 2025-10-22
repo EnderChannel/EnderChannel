@@ -11,13 +11,13 @@ hero:
     alt: EnderChannel
   actions:
     - text: EnderChannel
-      link: https://qm.qq.com/q/bAZle5ABzy
+      link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SqUZTKn_xJm9k_umqo9-vkMqAIdakXAL&authKey=5ttQyqcZyGjVr2xlhiNPNf7TIJz%2FOBU86SabFOC9QiJNJanJXO3VXfxsO3EcjB%2Bn&noverify=0&group_code=953287345
     - theme: sponsor
-      text: 1
+      text: MC导航
       link: /nav/
-    - theme: sponsor
-      text: 测试页
-      link: /test
+    # - theme: sponsor
+    #   text: 测试页
+    #   link: /test
 
 
 ---
